@@ -1,6 +1,6 @@
 import axios from "axios";
-import remove from "../assets/images/illustration-empty-cart.svg";
-import carbon from "../assets/images/icon-carbon-neutral.svg";
+import remove from "../public/assets/images/illustration-empty-cart.svg";
+import carbon from "../public/assets/images/icon-carbon-neutral.svg";
 import { useEffect, useState } from "react";
 import Cart from "./Cart";
 import BasicModal from "./ConfirmOrderModal";

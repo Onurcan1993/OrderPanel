@@ -1,6 +1,6 @@
-import basketLogo from "../assets/images/icon-add-to-cart.svg";
-import increment from "../assets/images/icon-increment-quantity.svg";
-import decrement from "../assets/images/icon-decrement-quantity.svg";
+import basketLogo from "../public/assets/images/icon-add-to-cart.svg";
+import increment from "../public/assets/images/icon-increment-quantity.svg";
+import decrement from "../public/assets/images/icon-decrement-quantity.svg";
 
 import { useEffect, useState } from "react";
 
